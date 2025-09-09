@@ -2,8 +2,9 @@
 <h3 align="center">💥  Java Developer | Spring Boot Backend | Always Learning 💥</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKsQ4bYgYp8k3Og/giphy.gif" width="400" alt="Iron Man Coding">
+  <img src="https://media.giphy.com/media/YoKaNS9l3kjZyilEzw/giphy.gif" width="400" alt="Spider-Man Coding">
 </p>
+
 
 ---
 
@@ -16,7 +17,6 @@
 
 ---
 
-## 🛠️ My Infinity Stones (Tech Stack)
 
 ## 🛠️ My Infinity Stones (Tech Stack)
 
@@ -39,10 +39,7 @@
 
 ## 🎬 Avengers Fun Zone
 
-![Spider-Man Swing](https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif)
-![Spider-Man Web](https://media.giphy.com/media/l0HlOvJ7yaacpuSas/giphy.gif)
-![Spider-Man Dancing](https://media.giphy.com/media/12bVDtXPOzYwda/giphy.gif)
-![Spider-Verse](https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif)
+
 
 ---
 
