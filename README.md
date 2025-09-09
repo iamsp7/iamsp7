@@ -1,24 +1,22 @@
-<h1 align="center">⚡ Hi, I'm [Sahil] ⚡</h1>
-<h3 align="center">💥  Java Developer | Spring Boot Backend | Always Learning 💥</h3>
+<h1 align="center">🕸️ Hi, I'm [Your Name] 🕷️</h1>
+<h3 align="center">💥 Marvel Spider-Man Fan | Java + Spring Boot Developer | DevOps Explorer 💥</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/YoKaNS9l3kjZyilEzw/giphy.gif" width="400" alt="Spider-Man Coding">
 </p>
 
+---
+
+## 🕷️ About Me
+- 🌟 A Marvel Spider-Man fan who codes like **Stark builds suits** but swings like **Peter Parker**  
+- 💻 Skilled in **Backend, DevOps, and Full-Stack powers**  
+- 🛠️ My Tech Stack = My **Infinity Webs** ⚡  
+- 🚀 Always learning, innovating, and ready to **swing into action**  
+- 🎯 Mission: Build cool stuff and protect the digital world with code 💻✨  
 
 ---
 
-## 🦸‍♂️ About Me
-- 🌟 A Marvel Avengers fan who codes like **Stark builds suits**
-- 💻 Skilled in **Java | Spring Boot | Python | MySQL | JavaScript | **
-- 🛠️ My Tech Stack = My **Infinity Stones** ⚡
-- 🚀 Always learning, innovating, and ready to **assemble with the team**
-- 🎯 Mission: Build cool stuff and protect the world with code 💻✨
-
----
-
-
-## 🛠️ My Infinity Stones (Tech Stack)
+## 🛠️ My Infinity Webs (Tech Stack)
 
 ![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-green?style=for-the-badge&logo=springboot)
@@ -37,17 +35,21 @@
 
 ---
 
-## 🎬 Avengers Fun Zone
+## 🎬 Spider-Man Fun Zone
 
-
+![Spider-Man Swing](https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif)  
+![Spider-Man Web](https://media.giphy.com/media/l0HlOvJ7yaacpuSas/giphy.gif)  
+![Spider-Man Dancing](https://media.giphy.com/media/12bVDtXPOzYwda/giphy.gif)  
+![Spider-Verse](https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif)  
 
 ---
 
 ## 📊 My Hero Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=radical)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=radical)  
 
 ---
 
-<h3 align="center">✨ Avengers Assemble ✨</h3>
-<p align="center">"The strongest weapon is a sharp mind and a good heart." 🦸‍♂️</p>
+<h3 align="center">✨ With great power, comes great responsibility ✨</h3>
+<p align="center">"Code like a hero. Debug like a warrior." 🕸️</p>
