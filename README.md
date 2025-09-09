@@ -59,7 +59,7 @@
 ## 🎬 Fun Zone
 
 <p align="center">
-  <img src="https://github.com/iamsp7/test-repository/blob/main/The%20End.gif"="250" alt="Spider-Man Swing">
+  <img src="https://github.com/iamsp7/iamsp7/blob/main/The%20End%20(1).gif"="250" alt="Spider-Man Swing">
 
 </p>
 
