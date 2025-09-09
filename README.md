@@ -2,7 +2,7 @@
 <h3 align="center">💥 Java Developer | Spring Boot Backend Developer | Always Learning 💥</h3>
 
 <p align="center">
-  <img src="https://github.com/iamsp7/test-repository/blob/main/tony%20stark%20ovaries%20GIF.gif" width="500" height="400" alt="Spider-Man Coding">
+  <img src="https://github.com/iamsp7/iamsp7/blob/main/tony%20stark%20ovaries%20GIF.gif" width="500" height="400" alt="Spider-Man Coding">
 </p>
 
 ---
